@@ -111,3 +111,9 @@ ant run
 - **Java Standard Edition (SE)**
 - **Java Swing (`javax.swing.*`)** – Window management and game loop timer
 - **Java AWT (`java.awt.*`)** – 2D canvas drawing and keyboard event listening
+
+## 👤 Author
+
+Developed by Saswata (@SaswataNX05).
+
+Feel free to fork, open an issue, or submit a pull request if you have ideas for improveme
