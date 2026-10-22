@@ -44,6 +44,8 @@ A classic 2D Snake game developed in **Java** utilizing **Swing** and **AWT** fo
 
 ```text
 Snake_Game/
+├── build.xml                     # Apache Ant build scri:pt
+├── manifest.mf                   # JAR manifest metadata
 ├── src/
 │   ├── icons/                    # Sprite assets
 │   │   ├── apple.png             # Food sprite
